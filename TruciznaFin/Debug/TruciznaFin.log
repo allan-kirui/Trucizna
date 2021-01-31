@@ -1,0 +1,19 @@
+﻿  TruciznaFin.cpp
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(37,2): warning C4091: 'typedef ': ignored on left of 'color' when no variable is declared
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(44,2): warning C4091: 'typedef ': ignored on left of 'card' when no variable is declared
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(50,2): warning C4091: 'typedef ': ignored on left of 'player' when no variable is declared
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(57,2): warning C4091: 'typedef ': ignored on left of 'game' when no variable is declared
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(205,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(304,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(548,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(786,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(1234,61): warning C4018: '<': signed/unsigned mismatch
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(1242,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(1270,60): warning C4018: '<': signed/unsigned mismatch
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(1490,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(1497,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(1521,132): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(1524,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(1527,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Trucizna\TruciznaFin\TruciznaFin.cpp(1541,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TruciznaFin.vcxproj -> D:\Trucizna\TruciznaFin\Debug\TruciznaFin.exe
